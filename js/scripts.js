@@ -316,7 +316,7 @@ $(function () {
 		success: "valid",
 		submitHandler: function() {
 			$.ajax({
-				url: 'https://formspree.io/muhammadasimwaqar@gmail.com',
+				url: 'https://www.enformed.io/p2zollwu',
 				type: 'post',
 				dataType: 'json',
 				data: 'name='+ $("#cform").find('input[name="name"]').val() + '&email='+ $("#cform").find('input[name="email"]').val() + '&message=' + $("#cform").find('textarea[name="message"]').val(),
