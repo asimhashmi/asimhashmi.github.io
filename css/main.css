@@ -2490,3 +2490,13 @@ blockquote {
     font-size: 18px;
   }
 }
+
+.gmap_canvas {
+  width: 100%;
+  padding-bottom: 5%;
+}
+
+#gmap_canvas {
+  border-radius: 2px;
+  width: 100%;
+}
